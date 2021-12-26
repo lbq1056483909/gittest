@@ -1,4 +1,6 @@
 public class mygit {
+  hello
+  my name is githup
 }
 /**
  * @ClassName mygit
